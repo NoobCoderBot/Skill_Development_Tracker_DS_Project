@@ -1,0 +1,8 @@
+1|Frontend Intern|RegionA|HTML,CSS,JavaScript,Git
+2|React Dev|RegionA|React,JavaScript,Git
+3|Data Entry|RegionB|Computer Basics,SQL
+4|Backend Intern|RegionA|SQL,Data Structures,Algorithms
+5|Support Executive|RegionB|Communication,Computer Basics
+6|Fullstack Junior|RegionC|HTML,CSS,JavaScript,SQL,Git
+7|SDE|RegionB|React,Communication,SQL,Data Structures
+8|AI Developer|RegionB|Communication,AI,ML

@@ -1,0 +1,15 @@
+Basic Math
+Computer Basics
+HTML
+CSS
+JavaScript
+React
+SQL
+Git
+DEPENDENCIES
+Basic Math,SQL
+Computer Basics,HTML
+HTML,CSS
+HTML,JavaScript
+JavaScript,React
+Git,React
